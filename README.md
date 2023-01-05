@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-Random Quote Genarator made by using Pure JavaScript and SCSS.
+Random Quote Genarator with tweet option made by using Pure JavaScript and SCSS.
 ## Technologies and tools used
 Project is created with:
 
